@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <!-- Editor activity label -->
+    <string name="editor_activity_name">Add a product</string>
+
+    <!-- Detail activity label -->
+    <string name="detail_activity_name">Edit a product</string>
+
+    <!-- Catalog activity menu insert dummy data text-->
+    <string name="action_insert_dummy_data">Inset Dummy Data</string>
+
+    <!-- Catalog activity menu delete all products text-->
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <!-- Catalog activity quantity updated success toast message-->
+    <string name="quantity_update_success">Quantity updated successfully</string>
+
+    <!-- Catalog activity quantity update failed toast message-->
+    <string name="quantity_update_failed">Quantity update failed</string>
+
+    !-- Editor activity menu delete product text-->
+    <string name="action_save">Save</string>
+
+    !-- Editor activity menu save product text-->
+    <string name="action_delete">Delete</string>
+
+    <!-- Sale button text in catalog activity -->
+    <string name="sale_button">Sale</string>
+
+    <!-- Empty view title text -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Empty view subtitle text -->
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+
+    <!-- Editor activity overview -->
+    <string name="category_overview">Product</string>
+
+    <!-- Editor activity supplier -->
+    <string name="category_supplier">Supplier</string>
+
+    <!-- Editor activity product name field hint -->
+    <string name="hint_product_name">Name</string>
+
+    <!-- Editor activity product supplier field hint -->
+    <string name="hint_product_supplier">Phone or Email ID</string>
+
+    <!-- Editor activity product price field hint -->
+    <string name="hint_product_price">Price</string>
+
+    <!-- Editor activity product price currency text -->
+    <string name="product_price">Rs.</string>
+
+    <!-- Price category label text -->
+    <string name="category_price">Price</string>
+
+    <!-- Image category label text -->
+    <string name="category_image">Upload Image</string>
+
+    <!-- Image upload button text -->
+    <string name="image_upload_button">Browse</string>
+
+    <!-- Quantity category label text -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Editor activity product quantity field hint -->
+    <string name="hint_product_quantity">Quantity</string>
+
+    <!-- Detail view activity product quantity increase field hint -->
+    <string name="hint_product_quantity_increase">Increase By</string>
+
+    <!-- Detail view activity product quantity decrease field hint -->
+    <string name="hint_product_quantity_decrease">Decrease by</string>
+
+    <!-- Detail view activity product order more from supplier button text -->
+    <string name="product_order_more_supplier">Order</string>
+
+    <!-- Delete all product dialog message -->
+    <string name="delete_all_products_dialog_msg">Delete all product?</string>
+
+    <!-- on detailView activity delete product dialog message -->
+    <string name="delete_product_dialog_msg">Delete product?</string>
+
+    <!-- Delete button text dialog message -->
+    <string name="delete">Delete</string>
+
+    <!-- Cancel button text dialog message -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Toast message for error deleting products-->
+    <string name="error_with_deleting_products">Error with deleting products</string>
+
+    <!-- Toast message for products deleted successfully-->
+    <string name="products_deleted_successfully">Products deleted successfully</string>
+
+    <!-- Unsaved changes dialog message -->
+    <string name="unsaved_changes_dialog_msg">Discard changes and quit editing?</string>
+
+    <!-- Discard button text on dialog message -->
+    <string name="discard">Discard</string>
+
+    <!-- Keep editing button text on dialog message -->
+    <string name="keep_editing">Keep editing</string>
+
+    <!-- Editor activity toast message for error saving product-->
+    <string name="editor_error_with_saving_product">Error with saving product</string>
+
+    <!-- Editor activity toast message for product saved successfully-->
+    <string name="editor_product_saved_successfully">Product saved successfully</string>
+
+    <!-- DetailView activity decrease quantity button text -->
+    <string name="decrease_quantity_button">Submit</string>
+
+    <!-- DetailView activity increase quantity button text -->
+    <string name="increase_quantity_button">Submit</string>
+
+    <!-- DetailView activity toast message for error updating product-->
+    <string name="detailView_error_with_updating_product">Error with updating product</string>
+
+    <!-- DetailView activity toast message for product updated successfully-->
+    <string name="detailView_product_updated_successfully">Product updated successfully</string>
+
+
+    <!-- On detailView activity toast message for error deleting products-->
+    <string name="detailView_error_with_deleting_product">Error with deleting product</string>
+
+    <!-- On detailView activity toast message for products deleted successfully-->
+    <string name="detailView_product_deleted_successfully">Product deleted successfully</string>
+
+    <!-- ListView label for price-->
+    <string name="listView_label_price">Price: </string>
+
+    <!-- ListView label for quantity-->
+    <string name="listView_label_quantity">Quantity: </string>
+
+    <!-- ListView label for name-->
+    <string name="listView_label_name">Name: </string>
+</resources>
+
+
